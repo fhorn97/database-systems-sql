@@ -1,3 +1,5 @@
+> Previously: `cs460-databases`
+
 # CS460 — Introduction to Database Systems
 
 SQL queries and database projects from BU CS460 (Introduction to Database Systems). Covers relational algebra, SQL, query optimization, and database design.
